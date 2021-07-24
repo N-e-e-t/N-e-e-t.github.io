@@ -195,6 +195,7 @@ lang: "ja"  # default lang is en
 # highlighter: none
 markdown: kramdown
 kmarkdown:
+  math_engine: mathjax
   input: GFM
 
 plugins:
